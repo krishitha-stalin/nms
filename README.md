@@ -1,1 +1,2 @@
 # nms
+editing readme file
